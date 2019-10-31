@@ -1,5 +1,6 @@
 # Labspy02dila
-#Pengertian statement if python
+# Pengertian statement if python
+
 Pada dasarnya, kondisi If Else If adalah sebuah struktur logika program yang di dapat dengan cara menyambung beberapa kondisi If Else menjadi sebuah kesatuan. Jika kondisi pertama tidak terpenuhi atau bernilai False, maka kode program akan lanjut ke kondisi If di bawahnya. Jika ternyata tidak juga terpenuhi, akan lanjut lagi ke kondisi If di bawahnya, dst hingga blok Else terakhir atau terdapat kondisi If yang bernilai True.
 Di Python ada 3 jenis pernyataan yang digunakan untuk percabangan, yaitu sebagai berikut.
 
